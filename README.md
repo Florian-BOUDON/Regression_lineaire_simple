@@ -1,6 +1,6 @@
-# Cours Complet sur la Régression linéaire simple
+# Cours omplet sur la régression linéaire simple
 
-Ce projet de GitHub contient un cours complet sur la **Régression linéaire simple**, qui aborde tous les aspects essentiels de cette technique de modélisation statistique.    
+Ce projet de GitHub est un cours sur la **Régression linéaire simple**, qui aborde tous les aspects essentiels de cette technique de modélisation statistique.    
 Le cours est structuré en plusieurs parties, l'ordre est important pour comprendre le cours.   
 
 ### Plan du Cours
