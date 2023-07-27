@@ -7,34 +7,26 @@ Le cours est structuré en plusieurs parties, l'ordre est important pour compren
 **Présentation et Rappels Statistiques**    
 Introduction à la régression linéaire multiple, rappels des concepts statistiques de base et de la modélisation linéaire simple.
 
-**Régression avec Toutes les Variables**     
-Apprentissage de la construction d'un modèle de régression linéaire multiple en utilisant toutes les variables disponibles dans le jeu de données.
+**Modélisation**    
+Apprentissage de la construction d'un modèle de régression linéaire multiple en utilisant plusieurs variables indépendantes pour prédire une variable dépendante.
 
-**Prévision**     
-Application de la régression linéaire multiple pour effectuer des prévisions sur de nouvelles données.
+**Les Résidus**    
+Étude des résidus pour évaluer la qualité du modèle et vérifier les hypothèses de régression.
 
-**Calcul des Points Leviers**    
-Étude des points leviers pour identifier les observations qui ont une influence disproportionnée sur le modèle.
+**Tests de Significativité**     
+Utilisation de tests statistiques pour évaluer la significativité des coefficients de régression.
 
-**Standardisation des Erreurs**    
-Normalisation des résidus pour faciliter leur interprétation et la comparaison entre les modèles.
+**Analyse de la Variance**    
+Analyse de la variance pour évaluer l'ajustement global du modèle.
 
-**Distance de Cook**    
-Utilisation de la distance de Cook pour détecter les observations qui ont un impact significatif sur le modèle.
+**Représentation Graphique des Résidus**    
+Utilisation de graphiques pour visualiser les résidus et détecter les violations des hypothèses de régression.
 
-**Collinéarité**   
-Identification et gestion des problèmes de collinéarité entre les variables indépendantes.
-
-**Homoscédasticité des Résidus**   
-Vérification et remédiation de l'homoscédasticité des résidus pour s'assurer de l'adéquation du modèle.
-
-**Normalité des Résidus**    
-Vérification de la normalité des résidus pour garantir l'efficacité des tests statistiques.
-
-**Backward Selection**   
-Méthode de sélection des variables les plus pertinentes pour le modèle à l'aide d'un processus de régression backward.     
+**Prévision**    
+Application de la régression linéaire multiple pour effectuer des prévisions sur de nouvelles données.      
 
 Chaque étape du cours sera expliquée en détail avec des commentaires pour faciliter la compréhension et l'apprentissage.
+
 
 ### Prérequis
 Pour ce projet nous utiliserons l'environnement suivant:    
@@ -48,7 +40,7 @@ seaborn
 
 ### Structure du Projet
 
-├── Regression_lineaire_multiple.ipynb    
+├── Regression_lineaire_simple.ipynb    
 ├── data    
 │   ├── ozone.csv    
 └── README.md     
