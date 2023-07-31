@@ -1,7 +1,7 @@
 # Cours complet sur la régression linéaire simple
 
 Ce projet de GitHub est un cours sur la **Régression linéaire simple**, qui aborde tous les aspects essentiels de cette technique de modélisation statistique.    
-Le cours est structuré en plusieurs parties, l'ordre est important pour comprendre le cours.   
+Le cours est structuré en plusieurs parties, l'ordre est important pour comprendre ce cours.   
 
 ### Plan du cours
 **Présentation et rappels statistiques**    
@@ -51,5 +51,5 @@ Le fichier README.md est le présent document, fournissant une description déta
 
 ### Conclusion
 Ce projet de GitHub propose un cours complet sur la régression linéaire simple, couvrant toutes les étapes importantes de la modélisation statistique. En suivant ce cours, nous serons en mesure de maîtriser la régression linéaire multiple et d'appliquer cette technique pour modéliser des relations complexes entre plusieurs variables.     
-Les exemples et les commentaires inclus dans le cahier Jupyter aideront à approfondir vos connaissances et être un expert en régression linéaire simple.     
+Les exemples et les commentaires inclus dans le cahier Jupyter aideront à approfondir vos connaissances en matière de régression linéaire simple.     
 
